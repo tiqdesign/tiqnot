@@ -1,0 +1,13 @@
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\bin\Release\netstandard2.0\tiqnot.deps.json
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\bin\Release\netstandard2.0\tiqnot.dll
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\bin\Release\netstandard2.0\tiqnot.pdb
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\tiqnot.csproj.CoreCompileInputs.cache
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\tiqnot.AssemblyMetadataInputs.cache
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\tiqnot.AssemblyMetadata.cs
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\tiqnot.AssemblyInfoInputs.cache
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\tiqnot.AssemblyInfo.cs
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\tiqnot.dll
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot\obj\Release\netstandard2.0\tiqnot.pdb

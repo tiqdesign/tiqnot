@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:local="clr-namespace:tiqnot"
+             x:Class="tiqnot.MainPage"
+             BackgroundColor="Transparent"
+             Visual="Material">
+    <yummy:PancakeView BackgroundGradientEndColor="#ed8f60" BackgroundGradientStartColor="#F8FFAE"  BackgroundGradientAngle="135">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Image Grid.Row="0" Source="tiqnot.png" Aspect="AspectFit" Margin="0,0,0,-10" HeightRequest="100" VerticalOptions="End" HorizontalOptions="CenterAndExpand"/>
+        <yummy:PancakeView Margin="20" CornerRadius="10" Grid.Row="1" BackgroundGradientStartColor="#ED8F60" BackgroundGradientEndColor="#bf406a" BackgroundGradientAngle="45" HorizontalOptions="FillAndExpand" HeightRequest="150" HasShadow="True">
+            <StackLayout Margin="20">
+                <Entry x:Name="tb_notif" TextColor="White" Visual="Material" Placeholder="Neyi hatırlatmamı istersin?" PlaceholderColor="White" Margin="20,10,20,10"/>
+                <Button x:Name="btn_add" Text="Ekle" FontSize="20" FontAttributes="Bold" Visual="Material" HeightRequest="45" TextColor="Black" BackgroundColor="White" Clicked="Btn_add_OnClicked"  Margin="20,5,20,0"/>
+            </StackLayout>
+        </yummy:PancakeView>
+            <Label Grid.Row="2" Text="Created by tiqdesign" VerticalOptions="Start" HorizontalOptions="Center" HorizontalTextAlignment="Center" FontSize="15" Margin="0,-10,0,0" FontAttributes="Bold" TextColor="White"></Label>
+    </Grid>
+
+</yummy:PancakeView>
+  
+
+</ContentPage>

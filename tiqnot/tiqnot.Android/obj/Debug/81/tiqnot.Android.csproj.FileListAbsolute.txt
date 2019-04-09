@@ -1,0 +1,8 @@
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot.Android\obj\Debug\81\tiqnot.Android.nuget.stamp
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot.Android\obj\Debug\81\tiqnot.Android.csprojAssemblyReference.cache
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot.Android\obj\Debug\81\res.flag
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot.Android\obj\Debug\81\tiqnot.Android.csproj.CoreCompileInputs.cache
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot.Android\obj\Debug\81\tiqnot.Android.AssemblyMetadataInputs.cache
+C:\Users\tiqdesign\source\repos\tiqnot\tiqnot\tiqnot.Android\obj\Debug\81\tiqnot.Android.AssemblyMetadata.cs
